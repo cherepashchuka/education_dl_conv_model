@@ -1,2 +1,2 @@
 # education_dl_conv_model
-Deep Learning. Convolutional Neural Network training project. 
+A simple project made by me while learning DL. Writing own neural network for classification on the MNIST dataset. It consists of two convolutional and three fully connected layers. The quality on the test sample is 0.9932.
